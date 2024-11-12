@@ -1,2 +1,3 @@
-# server_Fristaid
-This would help people who need about their symptoms is suspicious
+# severe first aid with hospital project
+
+symptoms on data.json
